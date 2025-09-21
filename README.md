@@ -1,6 +1,6 @@
 # Depression Study on Adults on ART - Kembata Tembaro Zone
 
-This repository contains SPSS files for my MPH research on depression prevalence and associated factors among adults on antiretroviral therapy in public hospitals, Kembata Tembaro Zone, South Ethiopia.
+This repository contains SPSS files for my MPH in Epidemiology research on depression prevalence and associated factors among adults on antiretroviral therapy in public hospitals, Kembata Tembaro Zone, South Ethiopia.
 
 ## Files
 - `depression_analysis.sps` → SPSS syntax for data cleaning, recoding, descriptive statistics, and regression analysis
